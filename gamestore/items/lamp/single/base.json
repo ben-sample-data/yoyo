@@ -1,0 +1,20 @@
+{
+    "name": "lamp",
+    "bundle": "single",
+    "category": "weapon",
+    "version": "base",
+    "title": "Lamp",
+    "tabs": [
+        "featured",
+        "blacksmith"
+    ],
+    "receipts": false,
+    "use": {
+        "type": "debug-extradata",
+        "id": "bulb",
+        "quantity": 1,
+        "extra": {
+            "extrastr": "ikea"
+        }
+    }
+}
