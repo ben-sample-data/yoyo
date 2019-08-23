@@ -1,0 +1,20 @@
+{
+    "name": "lamp",
+    "bundle": "pack_5",
+    "category": "weapon",
+    "version": "base",
+    "title": "A Gaggle of Lamps",
+    "tabs": [
+        "featured",
+        "blacksmith"
+    ],
+    "receipts": false,
+    "use": {
+        "type": "debug-extradata",
+        "id": "bulb",
+        "quantity": 5,
+        "extra": {
+            "extrastr": "ikea"
+        }
+    }
+}
